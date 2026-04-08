@@ -2,7 +2,7 @@ let i=0;
 let n=5;
 
 // //While loop
-while(i<n){ //condition check staring
+while(i<n){ 
     console.log(i);
     i++;
 }
