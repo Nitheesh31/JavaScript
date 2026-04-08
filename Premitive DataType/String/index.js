@@ -9,4 +9,4 @@ console.log(c);
 
 let name="Darlaa";
 let place="Tamilnadu";  
-console.log(`My name is ${name} My Place is ${place}`);  // ${} interpolation `` template literal
+console.log(`My name is ${name} My Place is ${place}`);  
