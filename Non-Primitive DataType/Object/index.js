@@ -8,7 +8,7 @@ emp.eState="Tamilnadu"
 
 console.log(emp)
 console.log(emp, typeof emp)
-console.table(emp) // it created table formate
+console.table(emp) 
 
 //new Keyword
 let stu=new Object()
